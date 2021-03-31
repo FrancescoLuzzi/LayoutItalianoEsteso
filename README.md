@@ -1,5 +1,5 @@
 # LayoutItalianoEsteso
-**Disabilita Windows Defender per far si che setup.exe possa aggiungere il nuovo layout**
+**__Disabilita Windows Defender per far si che setup.exe possa aggiungere il nuovo layout__**
 
 Esegui **setup.exe** per aggiungere un layout tastiera chiamato Italiano-Custom su windows con la possibilità di scrivere:
 * ~ con AltGr+ì
