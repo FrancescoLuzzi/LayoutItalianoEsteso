@@ -4,8 +4,12 @@
 Esegui **setup.exe** per aggiungere un layout tastiera chiamato Italiano-Custom su windows con la possibilità di scrivere:
 * ~ con AltGr+ì
 * ` con AltGr+'
-
+ 
 Eseguibile creato con [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+
+Oppure scarica **Italiano-Custom.klc** e [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134), carica il layout da File-> Load Existing Keyboard poi puoi continuare premento Project-> Build DLL and Setup Package.
+
+Esegui il file **setup.exe**, questi passi puoi farli se non ti fidi a disabilitare WindowsDefender!
 
 ## Operazioni dopo l'installazione
 1) Bottone Start
