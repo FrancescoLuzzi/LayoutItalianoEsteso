@@ -8,7 +8,7 @@ Eseguibile creato con [Microsoft Keyboard Layout Creator](https://www.microsoft.
 
 **__ Esegui come amministratore setup.exe __**
 
-Oppure scarica **Italiano-Custom.klc** e [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134), carica il layout da File-> Load Existing Keyboard poi puoi continuare premento Project-> Build DLL and Setup Package.
+Oppure scarica **Italiano-Custom.klc** e [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134), carica il layout da File-> Load Existing Keyboard poi puoi continuare premendo Project-> Build DLL and Setup Package.
 
 Esegui il file **setup.exe**, questi passi puoi farli se non ti fidi del mio eseguibile!
 
